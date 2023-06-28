@@ -10,7 +10,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorGitHubPages.wasm": "sha256-fs221q2sdAg0QUdy1fZ026eISGtOe8pih6pnQBeVcow=",
+      "BlazorGitHubPages.wasm": "sha256-MjkhfEZKUa9i\/sX8GGCuPo83sezJeTFNcAj3vN8cJaw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-bsH3LXd8zoH3+6BuryEMCaG2EdGdA805irOCFy47LbA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-MGfHhKh1H9Sn864cNFIb+6\/7seyqg6Ru3rboCpu9\/Gk=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9SZiFw+XMZ+04tujw2iAx17qL3HZxz5MKEpdLodQtpQ=",
